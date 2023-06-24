@@ -32,16 +32,3 @@ bash ./scripts/ee/report_trigger.sh
 bash ./scripts/ee/report_argument.sh
 bash ./scripts/ee/report_joint.sh
 ```
-
-## Main results
-
-![main results](./figs/main_result.png)
-
-## Examples of prompts
-![Zero-shot](./figs/zero-shot.png)
-![Few-shot ICL](./figs/few-shot-ICL.png)
-![Few-shot COT](./figs/few-shot-COT.png)
-
-## Future Work
-
-We will add the results and analysis of GPT-4.
